@@ -2,6 +2,16 @@
 
 # I'm a beginner in frontend development
 
+### Connect with me:
+*   [![Telegram](https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png)](https://t.me/zurikov )
+
+### Languages:
+* HTML
+* CSS
+* JavaScript
+* PHP
+
+
 
 <!--
 **zurikov/zurikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
