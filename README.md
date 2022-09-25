@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zurikov
+### Hi there 👋 I'm <a href="https://github.com/zurikov">Zurikov</a>
 ### Connect with me:
 <a href="https://t.me/zurikov"><img src="https://swimfed23.ru/wp-content/uploads/2022/04/telegram-logo.png" width="26" height="26" align="left">[Telegram]</a>
 
